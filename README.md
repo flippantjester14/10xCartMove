@@ -1,6 +1,4 @@
-Got it. Here's the **clean, copy-pasteable, GitHub-ready `README.md`** — fully Markdown compliant **without** boxed formatting, so you can paste it directly into GitHub:
 
----
 
 # 10xCartMove: Smooth Cartesian Motion for 6DOF Arms
 
